@@ -1,0 +1,77 @@
+
+.main-container{
+    margin: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.my-photo{
+    margin-top:40px;
+    margin-bottom: 50px;
+}
+.main-content-section{ 
+}
+.about-me-ptofession{
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+}
+.about-me-section{
+    margin-top: 100px;
+    margin-bottom: 40px;
+width: 400px;
+height: 230px;
+left: 500px;
+top: 140px;
+}
+
+.my-project-section{
+}
+.Work-Experience-section{
+}
+.Education-section{
+}
+.sidebar-section{
+    background-color: #1E2939;
+}
+.contacts-section{
+    margin: 50px 150px 50px 40px;
+    color: #fff;
+}
+.letters{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #fff;
+padding-right: 7px;
+margin-bottom: 10px;
+}
+.phonemail{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #fff;
+opacity: 0.5;
+}
+.contacts{
+margin-bottom: 10px;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #FFFFFF;
+}
+.tech-skill-section{
+    margin: 0px 210px 40px 40px;
+}
+.tech-skills{
+    font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #FFFFFF;
+}
