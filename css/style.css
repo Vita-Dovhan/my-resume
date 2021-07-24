@@ -5,36 +5,151 @@
     flex-direction: row-reverse;
     background-color: #F5F7FA;
     font-family: 'Montserrat', sans-serif;
+    box-shadow: 6px 6px 20px;
 }
 
 .my-photo{
     margin-top:40px;
     margin-bottom: 50px;
 }
-.main-content-section{ 
+.main-content-section{
+    background-color: #fff;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding-left: 80px;
 }
-.about-me-ptofession{
+.about-me-profession{
     font-weight: 700;
     font-size: 14px;
     color: #000;
 }
 .about-me-section{
-    margin-top: 100px;
-    margin-bottom: 40px;
+ margin: 100px 320px 40px 0px;
 width: 400px;
 height: 230px;
 left: 500px;
 top: 140px;
 }
-
-.my-project-section{
+.about-me-profession{
+    margin-bottom: 20px;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+.my-name{
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+margin-botton: 30px
+color: #fff;
+}
+.text{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+margin-bottom: 20px;
+}
+.title1{
+    font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin-bottom: 10px;
+}
+.list2{
+    margin-left: -20px;
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #000;
+}
+.link{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+margin-left: 10px;
+}
+.points{
+    color: #A8A8A8;
+}
+.linkname{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
 }
 .Work-Experience-section{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 275px;
+}
+.company-item{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin-bottom: 10px;
+}
+.namecompany{
+    color: #FB6D3A;
+}
+.timework{
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
+.vertical{
+    color: #000;
+}
+.copmany-text{
+margin-left: -20px;
+margin-bottom: 40px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+.company-2{
+    margin-right: 275px;
 }
 .Education-section{
+    margin-right: 380px;
+}
+.education-item{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 10px;
+}
+.education-title{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000;
+margin-bottom: 10px;
 }
 .sidebar-section{
     background-color: #1E2939;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 .contacts-section{
     margin: 50px 150px 50px 40px;
@@ -63,13 +178,34 @@ font-style: normal;
 font-weight: bold;
 font-size: 22px;
 line-height: 27px;
-color: #FFFFFF;
+color: #fff;
 }
 .tech-skill-section{
-    margin: 0px 210px 40px 40px;
+    margin: 0px 200px 40px 40px;
 }
 .tech-skills{
-    font-style: normal;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #FFFFFF;
+}
+.list{
+    color: #FB6D3A;
+    margin-left: -20px;
+}
+.item{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.soft-skill-section{
+margin: 0px 200px 40px 40px;
+}
+.soft-skills{
+font-style: normal;
 font-weight: bold;
 font-size: 22px;
 line-height: 27px;
