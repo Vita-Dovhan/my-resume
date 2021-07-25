@@ -1,5 +1,6 @@
 body{
     min-width: 1300px;
+    min-height: 1400px;
 }
 .main-container{
     margin: 40px;
@@ -147,7 +148,7 @@ color: #000;
 margin-bottom: 10px;
 }
 .sidebar-section{
-   min-width: 360px;
+   min-width: 370px;
     background-color: #1E2939;
     margin-left: 80px;
     margin-top: 40px;
